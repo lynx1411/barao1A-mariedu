@@ -15,6 +15,16 @@ header {
    margin: 0 auto;
 }
 
+. principal {
+background: #000000;
+font-color: #FFFFFF;
+}
+
+. beneficios {
+background: #000000;
+font-color: #FFFFFF;
+}
+
 nav {
    position: absolute;
    top: 110px;
@@ -34,12 +44,4 @@ nav a {
    text-decoration: none;
 }
 
-. principal {
-background: #000000;
-font-color: #FFFFFF;
-}
 
-. beneficios {
-background: #000000;
-font-color: #FFFFFF;
-}
