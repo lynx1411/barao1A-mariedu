@@ -9,18 +9,19 @@ header {
    height: 200px;
 }
 
-.caixa {
+.texto {
    position: relative;
    width: 940px;
    margin: 0 auto;
+   backgrund:
 }
 
-. principal {
+.principal {
 background: #000000;
 font-color: #FFFFFF;
 }
 
-. beneficios {
+.beneficios {
 background: #000000;
 font-color: #FFFFFF;
 }
